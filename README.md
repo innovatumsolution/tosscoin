@@ -1,2 +1,2 @@
 # tosscoin
-Toss Coin code
+Toss Coin code of Innovatum
