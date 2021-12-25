@@ -1,2 +1,2 @@
 # tosscoin
-Toss Coin code of Innovatum
+Toss Coin code of Innovatum creating toss coin application
